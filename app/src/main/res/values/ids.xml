@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recLang" type="id" />
+    <item name="uploadDesc" type="id" />
+    <item name="uploadImage" type="id" />
+    <item name="uploadTopic" type="id" />
+    <item name="uploadLang" type="id" />
+    <item name="saveButton" type="id" />
+    <item name="updateTitle" type="id" />
+    <item name="recDesc" type="id" />
+</resources>
